@@ -1,0 +1,14 @@
+{"date":"2025-11-25","studentId":"S1001","status":"present"}
+{"date":"2025-11-25","studentId":"S1002","status":"present"}
+{"date":"2025-11-25","studentId":"S1003","status":"absent"}
+{"date":"2025-11-26","studentId":"S1001","status":"present"}
+{"date":"2025-11-26","studentId":"S1002","status":"absent"}
+{"date":"2025-11-26","studentId":"S1003","status":"present"}
+{"date":"2025-11-27","studentId":"S1001","status":"present"}
+{"date":"2025-11-27","studentId":"S1002","status":"present"}
+{"date":"2025-11-27","studentId":"S1003","status":"present"}
+{"date":"2025-11-28","studentId":"S2001","status":"present"}
+{"date":"2025-11-28","studentId":"S2002","status":"present"}
+{"date":"2025-11-29","studentId":"S2001","status":"absent"}
+{"date":"2025-11-29","studentId":"S2002","status":"present"}
+{"date":"2025-12-06","studentId":"142","status":"present"}

@@ -1,0 +1,5 @@
+{"teacherId":"T001","name":"Dr. Rajesh Verma","subject":"Mathematics","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"teacherId":"T002","name":"Prof. Anita Desai","subject":"Physics","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"teacherId":"T003","name":"Dr. Suresh Nair","subject":"Computer Science","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"teacherId":"1","name":"prakash","subject":"coding skills","password":"b3a8e0e1f9ab1bfe3a36f231f676f78bb30a519d2b21e6c530c0eee8ebb4a5d0"}
+{"teacherId":"2","name":"siddhu","subject":"data structures","password":"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"}

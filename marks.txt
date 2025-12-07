@@ -1,0 +1,13 @@
+{"studentId":"S1001","subject":"Mathematics","term":"Mid1","marks":85}
+{"studentId":"S1001","subject":"Physics","term":"Mid1","marks":78}
+{"studentId":"S1001","subject":"Computer Science","term":"Mid1","marks":92}
+{"studentId":"S1002","subject":"Mathematics","term":"Mid1","marks":76}
+{"studentId":"S1002","subject":"Physics","term":"Mid1","marks":82}
+{"studentId":"S1002","subject":"Computer Science","term":"Mid1","marks":88}
+{"studentId":"S1003","subject":"Electronics","term":"Mid1","marks":79}
+{"studentId":"S1003","subject":"Mathematics","term":"Mid1","marks":84}
+{"studentId":"S2001","subject":"Data Structures","term":"Mid2","marks":91}
+{"studentId":"S2001","subject":"Algorithms","term":"Mid2","marks":87}
+{"studentId":"S2002","subject":"Thermodynamics","term":"Mid2","marks":73}
+{"studentId":"S2002","subject":"Mechanics","term":"Mid2","marks":80}
+{"studentId":"929","subject":"data structures","term":"Mid2","marks":20}

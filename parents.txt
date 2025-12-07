@@ -1,0 +1,8 @@
+{"parentPhone":"9876543210","studentId":"S1001","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"parentPhone":"9876543211","studentId":"S1002","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"parentPhone":"9876543212","studentId":"S1003","password":"8d969eef6ecad3c29a3a629280e686cf0c92020c923adc6c92"}
+{"parentPhone":"9876543213","studentId":"S2001","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"parentPhone":"9876543214","studentId":"S2002","password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"}
+{"parentPhone":"7993470516","studentId":"142","password":"801cef960c7c89a061f2d3f897bc31714a8bada37295ebd1194204a183941127"}
+{"parentPhone":"9705438789","studentId":"137","password":"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"}
+{"parentPhone":"9063263254","studentId":"929","password":"e0e3fcdfb0803ca538910c12042cb6232acb9e3c6db8908524aea6ed560e5334"}

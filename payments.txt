@@ -1,0 +1,4 @@
+{"studentId":"S1001","amount":30000,"date":"2025-11-15","timestamp":"2025-11-15T10:30:00.000Z"}
+{"studentId":"S2001","amount":50000,"date":"2025-11-20","timestamp":"2025-11-20T14:15:00.000Z"}
+{"studentId":"S2002","amount":20000,"date":"2025-11-25","timestamp":"2025-11-25T09:45:00.000Z"}
+{"studentId":"137","amount":50000,"date":"2025-12-01","timestamp":"2025-12-01T11:00:00.000Z"}
